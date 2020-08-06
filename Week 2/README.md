@@ -4,10 +4,10 @@
 
 - In this assignment you will read through and parse a file with text and numbers. You will extract all the numbers in the file and compute the sum of the numbers.
 
-- Data Files
+### Data Files
 
-We provide two files for this assignment. One is a sample file where we give you the sum for your testing and the other is the actual data you need to process for the assignment.
+You can get the data file here: [Get the Data File](https://github.com/saswatsamal/Access-Web-Data/blob/master/Week%202/regex_sum_817986.txt)
 
-- Solution
+### Solution
 
-You can check the solution here: 
+You can check the solution here: [Get the Code](https://github.com/saswatsamal/Access-Web-Data/blob/master/Week%202/week2.py)
